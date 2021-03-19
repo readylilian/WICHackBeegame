@@ -60,10 +60,10 @@
     <UnityVersion>2020.2.5f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Plants.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\BeeScript.cs" />
     <Compile Include="Assets\Scripts\TalkingScript.cs" />
-    <Compile Include="Assets\Scripts\Plants.cs" />
-    <Compile Include="Assets\GameManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class TalkingScript : MonoBehaviour
 {
+    GameObject beeHandler;
+    BeeScript beeScript;
     // Start is called before the first frame update
     void Start()
     {
